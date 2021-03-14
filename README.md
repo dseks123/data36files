@@ -1,0 +1,1 @@
+Bash scripts from the data36.com course
